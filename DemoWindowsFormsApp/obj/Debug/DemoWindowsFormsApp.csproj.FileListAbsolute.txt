@@ -1,0 +1,10 @@
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe.config
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.pdb
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.AssemblyReference.cache
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Form1.resources
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Properties.Resources.resources
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.GenerateResource.cache
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.exe
+E:\4 курс\УП 02.01\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.pdb
